@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "run": "tsx src/server.ts",
     "dev": "tsx watch src/server.ts",
     "lint": "eslint src --ext .ts --fix"
   },
